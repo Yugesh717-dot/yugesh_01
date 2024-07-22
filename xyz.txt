@@ -1,0 +1,4 @@
+I am new to DevOps
+I am planning to run this corse since last month
+I am going to learn these GITHUb, Jenkins, maven,DOcker, kubernetes and Helmchats
+My coiurse is about to close in nearby 30 days on or before i have to copmplete these tasks or max 50 days
